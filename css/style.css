@@ -1,4 +1,6 @@
-.box {
+#box1 {
 	width: 100px;
 	height: auto;
+	border: 10px solid #808;
+	padding: 10px;
 }
